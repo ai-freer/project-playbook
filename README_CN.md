@@ -1,5 +1,8 @@
 # Project Playbook
 
+[English](README.md)
+
+
 一个 OpenClaw skill，为 AI agent 提供复杂/长链任务的结构化项目管理框架。
 
 ## 解决什么问题
