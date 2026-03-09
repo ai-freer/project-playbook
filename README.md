@@ -1,5 +1,8 @@
 # Project Playbook
 
+[中文文档](README_CN.md)
+
+
 An OpenClaw skill for managing complex and long-running tasks with structured workflows.
 
 ## What it does
